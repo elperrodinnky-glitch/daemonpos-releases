@@ -1,2 +1,2 @@
-# deamonpos-releases
+# daemonpos-releases
 Repositorio publico para descarga de app escritorio
